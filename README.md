@@ -1,4 +1,4 @@
-# Research Unix Shell
+# Sun Shell
 A shell written in Rust and compatiable with all Linux distros and operating systems
 
 ## Building and executing the shell
