@@ -5,7 +5,7 @@ use std::process::{Child, Command, Stdio};
 
 fn main(){
   loop {
-      print!("Research Unix @ ");
+      print!("SUN shell ->");
       stdout().flush();
 
       let mut input = String::new();
