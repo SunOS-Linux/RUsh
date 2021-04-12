@@ -1,3 +1,4 @@
+// (C) 2021 Morales Research Corporation
 use std::env;
 use std::io::{stdin, stdout, Write};
 use std::path::Path;
