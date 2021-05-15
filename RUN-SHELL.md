@@ -3,7 +3,7 @@ You can run that binary anywhere from the command line
 
 To do this you need to add it to your path
 
-For mac you can add to your path from /etc/paths
+For Mac you can add to your path from /etc/paths
 
 whatever editor you prefer.... vi, code, etc...
 
