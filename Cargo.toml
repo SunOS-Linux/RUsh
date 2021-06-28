@@ -1,6 +1,6 @@
 [package]
 name = "Sun-Shell"
-version = "2.2.0-2"
+version = "2.3.0"
 authors = ["Morales Research Corporation"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
